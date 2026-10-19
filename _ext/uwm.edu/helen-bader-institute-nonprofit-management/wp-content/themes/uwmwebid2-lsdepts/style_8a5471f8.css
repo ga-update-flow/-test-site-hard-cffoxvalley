@@ -1,0 +1,20 @@
+/*
+Theme Name:   UWM Web Identity 2.0 - Letters & Science Department and Program Sites
+Theme URI:    http://uwm.edu
+Author:       UW-Milwaukee
+Author URI:   http://uwm.edu
+Description:  UWM Web Identity 2.0 Child Theme
+Template:     uwmwebid2
+Version:      1.0.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:  uwmwebid2-child
+*/
+
+figure.ls-post{max-width: 300px;margin-inline: auto}
+@media screen and (min-width: 1024px){
+    figure.ls-post{float:right; margin-inline: 15px;}
+}
+
+.ls_advises { font-size: 12px; margin-top: 6px; font-weight: 600;}
+.ls_advises_full { font-weight:bold; margin-bottom: 10px;}
