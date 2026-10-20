@@ -1,0 +1,57 @@
+{
+  "case": "case-20-rolling-closed",
+  "result": "PASS",
+  "run_id": "39477635283",
+  "time": "2026-10-20 19:37:23 UTC",
+  "live_url": "https://javedibrahim200.github.io/-test-site-hard-cffoxvalley/",
+  "changed_files": [
+    "M grants/community-vision-fund/index.html"
+  ],
+  "checks": [
+    {
+      "pass": true,
+      "check": "Changed file is live and identical to the branch",
+      "detail": "grants/community-vision-fund/index.html (last HTTP 200, 99292 bytes)"
+    },
+    {
+      "pass": true,
+      "check": "New text is visible on the live page [plain HTTP]",
+      "detail": "3 line(s) added by this case, 0 missing"
+    },
+    {
+      "pass": true,
+      "check": "Old text is gone from the live page [plain HTTP]",
+      "detail": "3 line(s) removed by this case, 0 still shown"
+    },
+    {
+      "pass": true,
+      "check": "New text is visible on the live page [Chrome-rendered page]",
+      "detail": "3 line(s) added by this case, 0 missing"
+    },
+    {
+      "pass": true,
+      "check": "Old text is gone from the live page [Chrome-rendered page]",
+      "detail": "3 line(s) removed by this case, 0 still shown"
+    },
+    {
+      "pass": true,
+      "check": "Examples of what the live page now says",
+      "detail": "Rolling applications are now closed; requests were previously reviewed and responded to by || Event sponsorship applications opened on February 23rd and are now closed. While we routinely ask for 60-day advance notice, we recognize th || Rolling applications are now closed; requests were previously reviewed and responded to by"
+    },
+    {
+      "pass": true,
+      "check": "Examples of what it said before",
+      "detail": "Rolling applications reviewed and responded to by || Event sponsorship applications will open on February 23rd. While we routinely ask for 60-day advance notice, we recognize that the timing of || Rolling applications reviewed and responded to by"
+    },
+    {
+      "pass": true,
+      "check": "Unchanged page is identical to the baseline",
+      "detail": "index.html (last HTTP 200)"
+    },
+    {
+      "pass": true,
+      "check": "Unchanged page is identical to the baseline",
+      "detail": "grants/index.html (last HTTP 200)"
+    }
+  ]
+}
