@@ -1,0 +1,57 @@
+{
+  "case": "case-05-focus-areas-changed",
+  "result": "PASS",
+  "run_id": "39477635283",
+  "time": "2026-10-20 18:56:35 UTC",
+  "live_url": "https://javedibrahim200.github.io/-test-site-hard-cffoxvalley/",
+  "changed_files": [
+    "M grants/environmental-stewardship-fund/index.html"
+  ],
+  "checks": [
+    {
+      "pass": true,
+      "check": "Changed file is live and identical to the branch",
+      "detail": "grants/environmental-stewardship-fund/index.html (last HTTP 200, 50808 bytes)"
+    },
+    {
+      "pass": true,
+      "check": "New text is visible on the live page [plain HTTP]",
+      "detail": "6 line(s) added by this case, 0 missing"
+    },
+    {
+      "pass": true,
+      "check": "Old text is gone from the live page [plain HTTP]",
+      "detail": "6 line(s) removed by this case, 0 still shown"
+    },
+    {
+      "pass": true,
+      "check": "New text is visible on the live page [Chrome-rendered page]",
+      "detail": "6 line(s) added by this case, 0 missing"
+    },
+    {
+      "pass": true,
+      "check": "Old text is gone from the live page [Chrome-rendered page]",
+      "detail": "6 line(s) removed by this case, 0 still shown"
+    },
+    {
+      "pass": true,
+      "check": "Examples of what the live page now says",
+      "detail": "Priority 1: Water & Watersheds || \u2014 Support clean-water and watershed restoration projects in the Fox River basin. || Priority 2: Climate & Energy"
+    },
+    {
+      "pass": true,
+      "check": "Examples of what it said before",
+      "detail": "Priority 1: Access and Inclusion || \u2014 Provide opportunities and remove barriers so all people can experience nature and learn the importance of a healthy environment. || Priority 2: Community Education & Awareness"
+    },
+    {
+      "pass": true,
+      "check": "Unchanged page is identical to the baseline",
+      "detail": "index.html (last HTTP 200)"
+    },
+    {
+      "pass": true,
+      "check": "Unchanged page is identical to the baseline",
+      "detail": "grants/index.html (last HTTP 200)"
+    }
+  ]
+}
