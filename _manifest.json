@@ -15,8 +15,6 @@
   "wp-content/themes/cffvr/images/cffvr-logo.svg": "https://cffoxvalley.org/wp-content/themes/cffvr/images/cffvr-logo.svg",
   "2026-tornado-community-response-fund/index.html": "https://cffoxvalley.org/2026-tornado-community-response-fund/",
   "community-response-fund-flooding-2026/index.html": "https://cffoxvalley.org/community-response-fund-flooding-2026/",
-  "brillion-area-family-of-funds/index.html": "https://cffoxvalley.org/brillion-area-family-of-funds/",
-  "chilton-area-commmunity-foundation/index.html": "https://cffoxvalley.org/chilton-area-commmunity-foundation/",
   "clintonville-area-foundation/index.html": "https://cffoxvalley.org/clintonville-area-foundation/",
   "shawano-area-community-foundation/index.html": "https://cffoxvalley.org/shawano-area-community-foundation/",
   "waupaca-area-community-foundation/index.html": "https://cffoxvalley.org/waupaca-area-community-foundation/",
@@ -5537,7 +5535,11 @@
   "author/cffoxvalley/page/109/index.html": "https://cffoxvalley.org/author/cffoxvalley/page/109/",
   "author/cffoxvalley/page/110/index.html": "https://cffoxvalley.org/author/cffoxvalley/page/110/",
   "author/cffoxvalley/page/111/index.html": "https://cffoxvalley.org/author/cffoxvalley/page/111/",
-  "author/cffoxvalley/page/112/index.html": "https://cffoxvalley.org/author/cffoxvalley/page/112/"
+  "author/cffoxvalley/page/112/index.html": "https://cffoxvalley.org/author/cffoxvalley/page/112/",
+  "brillion-area-family-of-funds/index.html": "https://cffoxvalley.org/brillion-area-family-of-funds/",
+  "chilton-area-commmunity-foundation/index.html": "https://cffoxvalley.org/chilton-area-commmunity-foundation/",
+  "wp-content/uploads/2026/06/Chilton.png": "https://cffoxvalley.org/wp-content/uploads/2026/06/Chilton.png",
+  "wp-content/uploads/2018/09/ChiltonChairs-8-16-18-5.jpg": "https://cffoxvalley.org/wp-content/uploads/2018/09/ChiltonChairs-8-16-18-5.jpg"
  },
  "failed": [
   {
@@ -12899,6 +12901,10 @@
   {
    "url": "http://cffoxvalley.org/wp-content/uploads/2025/09/Waupaca-Family-of-Funds-2025.pdf",
    "status": 404
+  },
+  {
+   "url": "https://web2.cffoxvalley.org/wp-content/uploads/2025/09/NSPA-LOGO-1024x613.png-300x180.webp",
+   "status": 0
   }
  ],
  "skipped_offsite_redirects": []
