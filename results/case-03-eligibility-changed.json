@@ -1,0 +1,57 @@
+{
+  "case": "case-03-eligibility-changed",
+  "result": "PASS",
+  "run_id": "39477635283",
+  "time": "2026-10-20 18:52:56 UTC",
+  "live_url": "https://javedibrahim200.github.io/-test-site-hard-cffoxvalley/",
+  "changed_files": [
+    "M grants/prospera-foundation/index.html"
+  ],
+  "checks": [
+    {
+      "pass": true,
+      "check": "Changed file is live and identical to the branch",
+      "detail": "grants/prospera-foundation/index.html (last HTTP 200, 57458 bytes)"
+    },
+    {
+      "pass": true,
+      "check": "New text is visible on the live page [plain HTTP]",
+      "detail": "4 line(s) added by this case, 0 missing"
+    },
+    {
+      "pass": true,
+      "check": "Old text is gone from the live page [plain HTTP]",
+      "detail": "4 line(s) removed by this case, 0 still shown"
+    },
+    {
+      "pass": true,
+      "check": "New text is visible on the live page [Chrome-rendered page]",
+      "detail": "4 line(s) added by this case, 0 missing"
+    },
+    {
+      "pass": true,
+      "check": "Old text is gone from the live page [Chrome-rendered page]",
+      "detail": "4 line(s) removed by this case, 0 still shown"
+    },
+    {
+      "pass": true,
+      "check": "Examples of what the live page now says",
+      "detail": "Be a 501(c)(3) public charity with at least three years of audited financial statements. || Located or provide services in the counties in which Prospera Credit Union branches serve: Outagamie and Winnebago only; organizations servi || Submit the request at least 90 days before the project/program start date."
+    },
+    {
+      "pass": true,
+      "check": "Examples of what it said before",
+      "detail": "Be deemed a 501(c)(3) public charity, as defined by the IRS. || Located or provide services in the counties in which Prospera Credit Union branches serve: Outagamie, Winnebago, Brown, Calumet, Waupaca, Ma || Submit request PRIOR to the project/program start date."
+    },
+    {
+      "pass": true,
+      "check": "Unchanged page is identical to the baseline",
+      "detail": "index.html (last HTTP 200)"
+    },
+    {
+      "pass": true,
+      "check": "Unchanged page is identical to the baseline",
+      "detail": "grants/index.html (last HTTP 200)"
+    }
+  ]
+}
