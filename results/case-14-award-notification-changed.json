@@ -1,0 +1,57 @@
+{
+  "case": "case-14-award-notification-changed",
+  "result": "PASS",
+  "run_id": "39477635283",
+  "time": "2026-10-20 19:24:24 UTC",
+  "live_url": "https://javedibrahim200.github.io/-test-site-hard-cffoxvalley/",
+  "changed_files": [
+    "M grant-portal/index.html"
+  ],
+  "checks": [
+    {
+      "pass": true,
+      "check": "Changed file is live and identical to the branch",
+      "detail": "grant-portal/index.html (last HTTP 200, 59868 bytes)"
+    },
+    {
+      "pass": true,
+      "check": "New text is visible on the live page [plain HTTP]",
+      "detail": "1 line(s) added by this case, 0 missing"
+    },
+    {
+      "pass": true,
+      "check": "Old text is gone from the live page [plain HTTP]",
+      "detail": "1 line(s) removed by this case, 0 still shown"
+    },
+    {
+      "pass": true,
+      "check": "New text is visible on the live page [Chrome-rendered page]",
+      "detail": "1 line(s) added by this case, 0 missing"
+    },
+    {
+      "pass": true,
+      "check": "Old text is gone from the live page [Chrome-rendered page]",
+      "detail": "1 line(s) removed by this case, 0 still shown"
+    },
+    {
+      "pass": true,
+      "check": "Examples of what the live page now says",
+      "detail": "Please do your best to be concise and remember that sometimes staff and grants committee members may be reviewing twenty or more grant appli"
+    },
+    {
+      "pass": true,
+      "check": "Examples of what it said before",
+      "detail": "Please do your best to be concise and remember that sometimes staff and grants committee members may be reviewing twenty or more grant appli"
+    },
+    {
+      "pass": true,
+      "check": "Unchanged page is identical to the baseline",
+      "detail": "index.html (last HTTP 200)"
+    },
+    {
+      "pass": true,
+      "check": "Unchanged page is identical to the baseline",
+      "detail": "grants/index.html (last HTTP 200)"
+    }
+  ]
+}
