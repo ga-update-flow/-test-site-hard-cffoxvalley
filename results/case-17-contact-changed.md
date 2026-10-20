@@ -1,0 +1,14 @@
+### case-17-contact-changed: PASS
+- PASS Changed file is live and identical to the branch - grants/fox-cares-foundation/index.html (last HTTP 200, 53412 bytes)
+- PASS New text is visible on the live page [plain HTTP] - 4 line(s) added by this case, 0 missing
+- PASS Old text is gone from the live page [plain HTTP] - 4 line(s) removed by this case, 0 still shown
+- PASS New text is visible on the live page [Chrome-rendered page] - 4 line(s) added by this case, 0 missing
+- PASS Old text is gone from the live page [Chrome-rendered page] - 4 line(s) removed by this case, 0 still shown
+- PASS New links are on the live page [plain HTTP] - mailto:lindsay.fenlon@cffoxvalley.org, tel:920.555.0142
+- PASS Old links are gone from the live page [plain HTTP] - mailto:lfenlon@cffoxvalley.org, tel:920.702.7640
+- PASS New links are on the live page [Chrome-rendered page] - mailto:lindsay.fenlon@cffoxvalley.org, tel:920.555.0142
+- PASS Old links are gone from the live page [Chrome-rendered page] - mailto:lfenlon@cffoxvalley.org, tel:920.702.7640
+- PASS Examples of what the live page now says - 920.555.0142 || lindsay.fenlon@cffoxvalley.org || 920.555.0142
+- PASS Examples of what it said before - 920.702.7640 || lfenlon@cffoxvalley.org || 920.702.7640
+- PASS Unchanged page is identical to the baseline - index.html (last HTTP 200)
+- PASS Unchanged page is identical to the baseline - grants/index.html (last HTTP 200)
