@@ -1,0 +1,57 @@
+{
+  "case": "case-06-population-changed",
+  "result": "PASS",
+  "run_id": "39477635283",
+  "time": "2026-10-20 18:58:40 UTC",
+  "live_url": "https://javedibrahim200.github.io/-test-site-hard-cffoxvalley/",
+  "changed_files": [
+    "M grants/john-sally-mielke-early-years-fund/index.html"
+  ],
+  "checks": [
+    {
+      "pass": true,
+      "check": "Changed file is live and identical to the branch",
+      "detail": "grants/john-sally-mielke-early-years-fund/index.html (last HTTP 200, 53468 bytes)"
+    },
+    {
+      "pass": true,
+      "check": "New text is visible on the live page [plain HTTP]",
+      "detail": "2 line(s) added by this case, 0 missing"
+    },
+    {
+      "pass": true,
+      "check": "Old text is gone from the live page [plain HTTP]",
+      "detail": "2 line(s) removed by this case, 0 still shown"
+    },
+    {
+      "pass": true,
+      "check": "New text is visible on the live page [Chrome-rendered page]",
+      "detail": "2 line(s) added by this case, 0 missing"
+    },
+    {
+      "pass": true,
+      "check": "Old text is gone from the live page [Chrome-rendered page]",
+      "detail": "2 line(s) removed by this case, 0 still shown"
+    },
+    {
+      "pass": true,
+      "check": "Examples of what the live page now says",
+      "detail": "To support programs that serve children from prenatal to five years of age and their families, with priority given to rural and migrant farm || Remove barriers to access for children from rural and migrant farmworker families"
+    },
+    {
+      "pass": true,
+      "check": "Examples of what it said before",
+      "detail": "To support programs that serve children from prenatal to five years of age and their families and raise awareness of the importance of the e || Remove barriers to access for children from marginalized backgrounds"
+    },
+    {
+      "pass": true,
+      "check": "Unchanged page is identical to the baseline",
+      "detail": "index.html (last HTTP 200)"
+    },
+    {
+      "pass": true,
+      "check": "Unchanged page is identical to the baseline",
+      "detail": "grants/index.html (last HTTP 200)"
+    }
+  ]
+}
